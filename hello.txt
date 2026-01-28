@@ -1,1 +1,2 @@
-Hello git! I am now making this change: the second sentence!
+# My First Repository!
+It's such a cool repository; a treasure trove of content!
